@@ -3,11 +3,11 @@
 
 # SaidLabs
 
-**Independent Software Developer**
+### Independent Software Developer
 
-Building practical desktop software and AI-powered tools.
+Building useful Windows applications and local-first AI tools.
 
-![Windows](https://img.shields.io/badge/Windows-11-0078D4?logo=windows11&logoColor=white)
+![Windows 11](https://img.shields.io/badge/Windows-11-0078D4?logo=windows11&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-C%23-512BD4?logo=dotnet&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 
@@ -17,21 +17,29 @@ Building practical desktop software and AI-powered tools.
 
 ## About
 
-Independent developer focused on Windows applications, software engineering and artificial intelligence.
+I build practical desktop software with a focus on usability, reliability and privacy.
 
-## Projects
+## Featured Projects
 
-- **DriverMasterPro** — Windows device information and driver diagnostics.
-- **COLORText AI** — Offline-first text processing and OCR application.
+| Project | Description |
+|---|---|
+| **DriverMasterPro** | Windows device information and driver diagnostics. |
+| **COLORText AI** | Local-first text processing and OCR, designed for offline runtime. |
 
-## Technologies
+## Technology
 
-`C#` · `.NET` · `WPF` · `Python` · `AI`
+**Languages:** C# · Python
+
+**Platform:** .NET · WPF · Windows
+
+**Interests:** AI · OCR · Offline-first software
 
 ---
 
 <div align="center">
 
 **BUILD · DEVELOP · INNOVATE**
+
+<sub>Windows Blue · #0078D4</sub>
 
 </div>
