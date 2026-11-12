@@ -21,10 +21,10 @@ I build practical desktop software with a focus on usability, reliability and pr
 
 ## Featured Projects
 
-| Project | Description |
-|---|---|
-| **DriverMasterPro** | Windows device information and driver diagnostics. |
-| **COLORText AI** | Local-first text processing and OCR, designed for offline runtime. |
+| Project | Description | Repository |
+|---|---|---|
+| **DriverMasterPro** | Windows device information and driver diagnostics. | [View Project](https://github.com/grfzx0-star/DriverMasterPro) |
+| **COLORText AI** | Local-first text processing and OCR, designed for offline runtime. | [View Project](https://github.com/grfzx0-star/COLORText) |
 
 ## Technology
 
