@@ -19,6 +19,8 @@ Building useful Windows applications and local-first AI tools.
 
 I build practical desktop software with a focus on usability, reliability and privacy.
 
+My work focuses on Windows applications, software engineering and AI-powered tools that can run locally.
+
 ## Featured Projects
 
 | Project | Description | Repository |
@@ -32,7 +34,19 @@ I build practical desktop software with a focus on usability, reliability and pr
 
 **Platform:** .NET · WPF · Windows
 
-**Interests:** AI · OCR · Offline-first software
+**Interests:** AI · OCR · Offline-first software · Desktop Applications
+
+---
+
+## GitHub Statistics
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=grfzx0-star&show_icons=true&hide_border=true&title_color=0078D4&icon_color=0078D4&text_color=555555&bg_color=ffffff)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=grfzx0-star&layout=compact&hide_border=true&title_color=0078D4&text_color=555555&bg_color=ffffff)
+
+</div>
 
 ---
 
@@ -40,6 +54,6 @@ I build practical desktop software with a focus on usability, reliability and pr
 
 **BUILD · DEVELOP · INNOVATE**
 
-<sub>Windows Blue · #0078D4</sub>
+<sub>SAIDLABS · Windows Blue #0078D4</sub>
 
 </div>
