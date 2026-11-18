@@ -1,59 +1,79 @@
+Act as a senior GitHub profile designer, AI engineering strategist, and professional open-source branding specialist.
 
-<div align="center">
+I want you to redesign and improve my existing GitHub Profile README for:
 
-# SaidLabs
+GitHub: https://github.com/grfzx0-star
 
-### Independent Software Developer
+Profile identity: SaidLabs
 
-Building useful Windows applications and local-first AI tools.
+OBJECTIVE
 
-![Windows 11](https://img.shields.io/badge/Windows-11-0078D4?logo=windows11&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-C%23-512BD4?logo=dotnet&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+Transform my current GitHub Profile README into a modern, professional, ambitious international technology profile focused on:
 
-</div>
+- Artificial Intelligence Engineering
+- Local AI and Offline-first Software
+- OCR and Computer Vision
+- Arabic and Maghrebi Typography
+- RTL Language Processing
+- Color Science and Image Analysis
+- Windows Desktop Applications
+- C# / .NET / WPF / Python
+- Open-Source Research and Collaboration
 
----
+EXISTING PROJECTS
 
-## About
+1. DriverMasterPro
+   https://github.com/grfzx0-star/DriverMasterPro
 
-I build practical desktop software with a focus on usability, reliability and privacy.
+2. COLORText AI
+   https://github.com/grfzx0-star/COLORText
 
-My work focuses on Windows applications, software engineering and AI-powered tools that can run locally.
+Preserve both project links.
 
-## Featured Projects
+DESIGN REQUIREMENTS
 
-| Project | Description | Repository |
-|---|---|---|
-| **DriverMasterPro** | Windows device information and driver diagnostics. | [View Project](https://github.com/grfzx0-star/DriverMasterPro) |
-| **COLORText AI** | Local-first text processing and OCR, designed for offline runtime. | [View Project](https://github.com/grfzx0-star/COLORText) |
+Maintain the existing clean Markdown structure:
 
-## Technology
+- Centered profile header.
+- Professional technology badges.
+- About section.
+- Featured Projects table.
+- Technology stack.
+- Research & Engineering section.
+- Open to Collaboration section.
+- GitHub statistics.
+- Professional closing signature.
 
-**Languages:** C# · Python
+Visual identity:
 
-**Platform:** .NET · WPF · Windows
+- Brand: SaidLabs
+- Primary color: Windows Blue #0078D4
+- Modern, clean, professional and internationally recognizable.
+- Well-organized Markdown.
+- Compatible with GitHub README rendering.
 
-**Interests:** AI · OCR · Offline-first software · Desktop Applications
+IMPORTANT ENGINEERING RULES
 
----
+1. Do not invent completed projects, achievements, certifications, contributors or statistics.
+2. Clearly distinguish existing capabilities from future ambitions.
+3. Do not claim that unfinished features are implemented.
+4. Keep the original repository URLs unchanged.
+5. Avoid unnecessary animations, excessive badges and visual clutter.
+6. Use valid Markdown and working image URLs.
+7. Make the profile welcoming to AI developers, researchers and open-source contributors.
 
-## GitHub Statistics
+DELIVERABLE
 
-<div align="center">
+Return:
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=grfzx0-star&show_icons=true&hide_border=true&title_color=0078D4&icon_color=0078D4&text_color=555555&bg_color=ffffff)
+1. The complete improved README.md.
+2. A concise summary of the improvements.
+3. A list of any external services or badges used.
+4. A technical validation checklist for GitHub rendering.
+5. Suggested future profile improvements.
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=grfzx0-star&layout=compact&hide_border=true&title_color=0078D4&text_color=555555&bg_color=ffffff)
+Do not modify any GitHub repository. Only prepare the complete README content for review.
 
-</div>
+The final result should communicate this identity:
 
----
-
-<div align="center">
-
-**BUILD · DEVELOP · INNOVATE**
-
-<sub>SAIDLABS · Windows Blue #0078D4</sub>
-
-</div>
+SAIDLABS — Independent Engineering. Responsible AI. Practical Innovation.
